@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+h1 {
+    font-family: 'Press Start 2P';
+    color: white;
+    font-size: 3rem;
+    
+    text-shadow: -3px -3px 0 #000, 3px -3px 0 #000, -3px 3px 0 #000, 3px 3px 0 #000;
+}
